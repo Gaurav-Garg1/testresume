@@ -1,7 +1,7 @@
 {
-    "name": "Minimal",
-    "short_name": "Minimal",
-    "start_url": ".",
+    "name": "Gaurav's Resume",
+    "short_name": "Gaurav's Resume",
+    "start_url": "testresume",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
